@@ -25,19 +25,14 @@ data = [3, 16, 156, 47, 246, 176, 233, 140, 130,
 lags = range(35)
 
 
-#Pre-allocate autocorrelation table
+![Screenshot 2025-03-29 160732](https://github.com/user-attachments/assets/c4768de5-6673-490b-acd4-55ffe697235b)
 
-#Mean
 
-#Variance
-
-#Normalized data
-
-#Go through lag components one-by-one
-
-#display the graph
 
 ### OUTPUT:
+
+
+![Screenshot 2025-03-29 160544](https://github.com/user-attachments/assets/15682394-8452-4298-8992-9147b4e200b7)
 
 ### RESULT:
         Thus we have successfully implemented the auto correlation function in python.
